@@ -1,0 +1,31 @@
+Title: Teamspot
+
+----
+
+Text: 
+
+## What is REXX? It’s a system for skill management, human resources and time management which we are using in Matrix42.
+So let’s look at REXX ( https://www.rexx-systems.com ) from a different angle.
+Your onboarding will never be the same again. Know how your colleagues look like. Stop struggling with your calendar. From now on you’d wish to use it every day.
+And many, many more…
+**Yeah \m/**
+
+----
+
+Images: 4305_3.jpg
+
+----
+
+Logo: teamspot.png
+
+----
+
+Creator: Eugene Lobyr
+
+----
+
+Contributors: 12
+
+----
+
+Imagefiles: 4305_3.jpg,teamspot.png
