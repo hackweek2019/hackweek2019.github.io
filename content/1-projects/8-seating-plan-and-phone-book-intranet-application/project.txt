@@ -1,0 +1,29 @@
+Title: Seating plan and phone book intranet application
+
+----
+
+Text: 
+
+## Find out where your colleagues sit or how to contact them.
+
+Netpioneer’s “who’s sitting where” tool brought to a new level: Suitable for all locations, not just Karlsruhe, with an editor to adjust the tables and integration with tel.ad.diva-e.com and my.diva-e. Project is almost functional complete but look and feel could be improved.
+
+https://tel.ad.diva-e.com/ already exists but could use some minor improvements.
+
+**Skills needed: React and/or Java (for tel), Angular 6 and/or Kotlin (seat plan), Design and/or UX (both)**
+
+----
+
+Imagefiles: 
+
+----
+
+Logo: sitzplan.png
+
+----
+
+Creator: Achim Settelmeier
+
+----
+
+Contributors: 3

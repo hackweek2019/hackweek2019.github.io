@@ -1,0 +1,28 @@
+Title: Hackphones
+
+----
+
+Text: 
+
+## This hack is about bringing your old lame wired headphone to the next level!
+We will be going to build our own bluetooth audio adapter to replace the wire in our headphones. From printing our custom PCB to soldering the components and battery.
+
+This project does not have a maximum team size, although I think at least 3 people would be more fun.
+
+Bring your own headphone. More infos coming soon.
+
+----
+
+Imagefiles: 
+
+----
+
+Logo: hackphones-logo-positive_190127.svg
+
+----
+
+Creator: Bruno Fenzl
+
+----
+
+Contributors: 2

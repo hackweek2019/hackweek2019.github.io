@@ -1,0 +1,57 @@
+Title: A “Social Wall” – Connect the diva-e offices
+
+----
+
+Text: 
+
+## I would like to invite you to realize a social wall for our offices. 
+In short: A screen shows messages, quotes and images from our colleagues from different diva-e locations. Further we implement a camera, gesture and voice recognition to control the screen and integrate any kind of modules due to a modularized setup.
+
+## Are you interested in? Damn Hack Nice!
+
+In detail: We would like to realize a social wall which connects our colleagues from all our locations. They can write messages or quotes and send images directly to the Social Wall. Those will be floating around like “Hack in the Air” – This should be the main goal. But to make the Social Wall more interactive and to increase the fun for us “Hack”-Lovers (further called “Hackers”) we will integrate a camera and microphone to control the Social Wall. This allows us “Hackers” to implement modules with voice interaction [like open the menu via voice command] or use the gesture control [to navigate through the menu or play a game against your colleague like Pong].
+
+### The current job for the “Hackers” is to implement:
+* Feed bubbles with messages, images which floating around
+* Show the location of the diva-e office, where the feed was taken or sent
+* Use Hashtags / fill out a form to contribute to Social Wall
+* Use your voice to send a bubble directly in front of the screen
+* Voice and gesture recognition as the mayor way to control / navigate
+* Implement “Pong” for two players
+* Controlled by gesture detection
+* Leaderboard
+* Play against other colleagues at different locations
+* Taking pictures directly at the screen
+* Video Chat with other colleagues at different locations
+* UI / UX for sure as well
+* A feel-good design, which illustrates happiness and connection between the colleagues
+* Fresh ideas how to navigate with this non-yet common way to control
+* EasterEgg: Speak out “Hack is in the Air” to activate the “Hack”-Lovers mode which turns the “Hack”-Theme on.
+
+Due to the module-based implementation it’s simple to extend Social Wall. Any other ideas are welcomed and can be discussed in the comments or at the Hackweek.
+
+ACTION REQUIRED: GENERAL DISCUSSION: HARDWARE:
+We should decide which hardware to use for:
+* Voice recognition
+* Camera to track gestures and allows video chat
+* …
+
+You can also find some first drafts here [just to illustrate the idea of Social Wall – THIS IS NOT A DESIGN PROPOSE – JUST TO VISUALIZE THE IDEA ON A BASICS LEVEL].
+
+https://nextcloud.diva-e.com/index.php/s/iA5pBnq4eqdjroR
+
+----
+
+Imagefiles: 
+
+----
+
+Logo: social_wall_logo.jpg
+
+----
+
+Creator: Marcel Anger
+
+----
+
+Contributors: 6

@@ -9,19 +9,21 @@ class DataFetch {
     this.urlPrefix = 'https://hackweek.matrix42.com/shop/';
     this.url = 'hacks/diva-e-vending-machine-info-app-iot-frontend-engineering-electron/';
     this.hashArray = [];
-    this.readTextButton = document.querySelector('#read-text');
-    this.pauseTextButton = document.querySelector('#pause-text');
+    this.readTextButton = '';
+    this.pauseTextButton = '';
   }
 
   init() {
-    console.log('DataFetch initialized!', window.responsiveVoice);
     window.responsiveVoice.init();
-    this.initActions();
+
     this.fetchHash();
   }
 
   initActions() {
+    // console.log('Init Actions', this.readTextButton);
+
     this.readTextButton.addEventListener('click', () => {
+      console.log('Hello');
       this.readText();
       this.pauseTextButton.removeAttribute('data-paused');
     });
@@ -49,12 +51,12 @@ class DataFetch {
   }
 
   checkForHash(hash, data) {
-    console.log('Checking for: ', hash);
+    // console.log('Checking for: ', hash);
     if (this.hashArray.includes(hash)) {
-      console.log('Happiness', data);
+      // console.log('Happiness', data);
       const index = this.hashArray.indexOf(hash);
       this.renderData(data, index);
-      console.log(data.contentlets);
+      // console.log(data.contentlets);
     }
   }
 
@@ -62,8 +64,12 @@ class DataFetch {
     const metaSlot = document.querySelector('#meta-slot');
     const renderMeta = `
       <div class="logo" style="background-image: url('${data.contentlets[index].logo}')"></div>
-      <div class="meta-creator">Creator: <strong>${data.contentlets[index].creator}</strong></div>
-      <div class="meta-contributors">Contributors: <strong>${data.contentlets[index].contributors}</strong></div>
+      <div id="buttons">
+        <button id="read-text"><i class="la la-play"></i></button>
+        <button id="pause-text"><i class="la la-pause"></i></button>
+      </div>
+      <div class="meta-creator"><i class="la la-user-plus"></i><strong>${data.contentlets[index].creator}</strong></div>
+      <div class="meta-contributors"><i class="la la-users"></i><strong>${data.contentlets[index].contributors}</strong></div>
     `;
     metaSlot.innerHTML = renderMeta;
 
@@ -75,26 +81,35 @@ class DataFetch {
       </div>
     `;
     contentSlot.innerHTML = renderContent;
+
     const imagesSlot = document.querySelector('#images-slot');
     let renderImages = '';
-    const images = arrayFrom(data.contentlets[index].images);
+    if (data.contentlets[index].images) {
+      const images = arrayFrom(data.contentlets[index].images);
 
-    images.forEach((image) => {
-      const renderImage = `
-        <figure>
-          <img src="${image.url}" width="1000" />
-        </figure>
-      `;
+      images.forEach((image) => {
+        const renderImage = `
+          <figure>
+            <img src="${image.url}" width="1000" />
+          </figure>
+        `;
 
-      renderImages += renderImage;
-    });
+        renderImages += renderImage;
+      });
 
-    imagesSlot.innerHTML = renderImages;
-    console.log(data.contentlets[index].images);
+      imagesSlot.innerHTML = renderImages;
+    }
+    this.readTextButton = document.querySelector('#read-text');
+    this.pauseTextButton = document.querySelector('#pause-text');
+
+    document.body.querySelector('.article__main-output').classList.remove('hidden');
+    // document.body.querySelector('#buttons').classList.remove('hidden');
+    this.initActions();
 
   }
 
   readText() {
+    console.log('Reading Text');
     const content = document.querySelector('#content-slot').innerText;
     // const voice = window.responsiveVoice;
     // responsiveVoicse.init();

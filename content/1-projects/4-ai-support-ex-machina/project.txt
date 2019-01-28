@@ -1,0 +1,27 @@
+Title: AI: Support Ex Machina
+
+----
+
+Text: 
+
+## Our aim is to simplify everyday work for Helpdesk Agents so the work can be done faster and smarter.
+
+Let’s build Artificial intelligence based knowledge management system for Matrix42 IT Service Management product that uses unsupervised machine-learning algorithms for identification if incoming issue is already known.
+
+As a demo case, we will integrate it to Matrix42 Support web site
+
+----
+
+Imagefiles: 
+
+----
+
+Logo: 5555.jpg
+
+----
+
+Creator: Andrey Kostenko
+
+----
+
+Contributors: 4

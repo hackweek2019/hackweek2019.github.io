@@ -1,0 +1,50 @@
+Title: Future data integration in our e-commerce projects
+
+----
+
+Text: 
+
+## In all of our SAP Hybris E-Commerce projects, we face various challenges with data integration. 
+Most of them are related to the inadequacies of the DataHub integration tool, which SAP is not planning to further develop in the future as part of its migration to the cloud.
+
+Therefore, we need a solution for all projects for which a concept is to be developed. One part of this concept is the evaluation of the SAP Cloud Platform Integration (SCPI) path we want to take at Hackweek.
+
+Typically product data, customer master data and sales history are synchronized between an ERP system and a sales frontend application.
+
+Our focus will be on middleware architecture to fulfil this requirement. We would like to compare and test a subset of different options or concepts to load and transform backend data.
+
+Within a hands-on session we would like to test and evaluate a new way to integrate SAP ERP or S/4HANA with SAP Hybris Commerce in terms of replication of product data.
+
+**Suggested scope:**
+Transmit standardized XML-based product data (SAP IDOC) via SCPI into an on-premise Hybris Commerce solution
+
+**Sub-tasks may include:**
+* Refine Scope
+* Configure Tenant and Integration Flow
+* Install and configure SAP Cloud Connector to connect to Hybris instance (Cloud to on-premise connection)
+* Set up Hybris Commerce with extensions for Integration Objects (OData)
+* Learn about error tracking and logging
+* Define Sample Data
+* Analyse REST/OData calls for integration
+* Explore options to customize or extend pre-build Integration Flows
+
+**What we need:**
+* You as a highly regarded colleague, interested in topics like: data integration/replication, customizing standard applications, SAP enthusiast, devops, cloud architect, cloud integration, APIs
+* Access to SAP trial/demo SAP Cloud Platform Integration
+* VM to install SAP Hybris Commerce and SAP Cloud Connector for hands on session
+
+----
+
+Imagefiles: 
+
+----
+
+Logo: matmas_idoc.jpg
+
+----
+
+Creator: Friedrich Teucher
+
+----
+
+Contributors: 2

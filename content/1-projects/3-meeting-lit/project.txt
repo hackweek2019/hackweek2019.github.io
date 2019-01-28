@@ -1,0 +1,26 @@
+Title: Meeting Lite
+
+----
+
+Text: 
+
+## When is my next meeting? Reminder not set? Missed a meeting? Happens like all the time, right?
+The idea of this hack is to visualize upcomming meetings using a kind of traffic light for meetings. We would like to use multiple RGB-LED’s as a timeline and based on the color it represents if and when a meeting is in your calendar.
+
+The idea is not definded in detail – I’m open for discussion and inspiration.
+
+----
+
+Imagefiles: 85a7f4bccb8032df4c0fb229fc250945.jpg
+
+----
+
+Logo: 85a7f4bccb8032df4c0fb229fc250945.jpg
+
+----
+
+Creator: Jannik Egger
+
+----
+
+Contributors: 4

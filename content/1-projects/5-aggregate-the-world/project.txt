@@ -1,0 +1,35 @@
+Title: Aggregate the World
+
+----
+
+Text: 
+
+## Introduce a technology which allows declaratively aggregates various Solutions from different Vendors in SolutionBuilder
+The technology intuitively discovers endpoints exposed by 3-d Party and extracts them to SolutionBuilder, where they can be used for constructing new User Intergaces, or for building intricate business logic in Workflows
+
+Demo case. In 2 minutes configure connectivity with different APIs (e.g. Google Calendar, VSTS), build an action which Action, with workflow
+
+Key words: 
+* REST, 
+* Soap, 
+* Wsdl, 
+* swagger, 
+* Authentication, 
+* Workflow Studio, 
+* Solution Builder
+
+----
+
+Imagefiles: 
+
+----
+
+Logo: connect-world.jpg
+
+----
+
+Creator: Vadim Zinoviev
+
+----
+
+Contributors: 6

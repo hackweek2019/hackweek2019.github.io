@@ -1,0 +1,25 @@
+Title: Mr Robot Supporter
+
+----
+
+Text: 
+
+## Detect and prevent reporting of new incidents even before End-Users realise the problems and report new bugs.
+System will be analyzing happiness-level and user-experience during real-time interaction with Matrix42 UUX.
+We are going to use “Emotion Detection” technologies based on Deep Neural Networks.
+
+----
+
+Imagefiles: 
+
+----
+
+Logo: logo.png
+
+----
+
+Creator: Nick Melnyk
+
+----
+
+Contributors: 6

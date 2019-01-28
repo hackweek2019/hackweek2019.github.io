@@ -1,0 +1,35 @@
+Title: Smart Trash
+
+----
+
+Text: 
+
+## “Smart Trash” stands for a digital shopping basket integrated in a mirror.
+
+The shopping basket is filled with the help of a waste bin, which recognizes the discarded packaging and adds it to the shopping basket. The basket can be accessed via Alexa voice control. The shopping cart can be subsequently edited via voice command.
+
+The Smart Trash project uses the following technologies and materials
+
+* Alexa
+* Smart Mirror (display built into a mirror)
+* RFID receiver and transponder (trash can that registers RFID transponders/tags in packaging and fills an Amazon shopping cart)
+* laptop
+* acrylic glass
+* mirror foil
+* and a lot of wood
+
+----
+
+Imagefiles: img_0862.jpg
+
+----
+
+Logo: img_0862.jpg
+
+----
+
+Creator: Mario Mokros
+
+----
+
+Contributors: 4

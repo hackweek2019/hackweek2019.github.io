@@ -1,0 +1,50 @@
+Title: Data-Driven Design
+
+----
+
+Text: 
+
+## We would like to design Interfaces with meaningful data.
+
+Sounds good?!
+
+In our daily routine we often discover a great gap between the screen design and the variety of conditions real data causes. We underestimate the variety of renditions of our modules when filled with data. We detect edge cases after integration in the live environment. We struggle with too long names or missing data parts on the live system.
+
+We want to find a way, where we can apply real data in our design process and reuse the format for frontend development and create feedback channels in both ways through it.
+
+Example of what we want to connect: https://owncloud.diva-e.com/index.php/s/L6Fcde73DPKBDHg
+
+But how?! Our ideas…
+
+* Investigate current solutions, Plugins & workflows
+* the new Sketch 52 comes with a data-feature
+* there are some Plugins like (Craft) from InVision
+* but for now, there is no solution (we’ve discovered), which fits our needs perfectly
+* Discover the needs of designers, API creators and frontend developers and find a perfect platform to interact und contribute to each other
+* create a (Sketch) Plugin, that allows us to add meaningful data as we use it in most of our projects
+* create a concept of the functionality and the interface after our discovered needs
+* agree on an MVP
+* develop and test
+* iterate…
+* think about an (automated) connection to the frontend blueprint
+* make a concept of how to integrate it into our workflow
+
+**WE WANT YOU!
+**
+## If you have a good feeling on designer’s needs, frontend developer’s pain with creating X versions of the same module or just interested to improve the design workflow – join us!
+
+----
+
+Imagefiles: hackweek_data.jpg
+
+----
+
+Logo: hackweek_data.jpg
+
+----
+
+Creator: Manuel Bolai
+
+----
+
+Contributors: 5

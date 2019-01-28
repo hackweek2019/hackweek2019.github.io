@@ -1,0 +1,34 @@
+Title: PhoneLight
+
+----
+
+Text: 
+
+The diva-e office in Munich (Tassiloplatz) uses PhillipsHue lamps for requesting silence if someone is in a call. Currently everyone can turn on the lights using a super simple Electron-App. The lamps of the room (where the person sits in) then turns red and everybody else knows that there is a call ongoing. But there are no more features.
+
+I would like to extend and implement much more features into this small Application.
+
+Some ideas are:
+
+* Info about the person who turned on the light.
+* Reminder after period of time if the light should stay on.
+* Better response time of the lamps – sometimes ist delayed
+* Better room organization
+
+**And of course all ideas you have!**
+
+----
+
+Imagefiles: screenshot-2018-11-27-at-11.14.11.png
+
+----
+
+Logo: screenshot-2018-11-27-at-11.14.11.png
+
+----
+
+Creator: Jannik Egger
+
+----
+
+Contributors: 5
