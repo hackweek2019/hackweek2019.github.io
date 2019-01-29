@@ -1,0 +1,32 @@
+Title: Alexa Skills
+
+----
+
+Text: 
+
+## Für den Kunden MEAG soll ein Alexa Skill entwickelt werden.
+Hierbei sollen z. B. Wertentwicklungs-Daten zu den angebotenen Fonds abrufbar sein, so z. B.
+“Alexa, wie ist der akteulle Preis des MEAG EuroErtrag?”
+„Alexa, welche Wertentwicklung hat der MEAG FairReturn in den letzten 5 Jahren gehabt?“
+„Alexa, welcher MEAG-Fonds hatte im letzten Jahr die beste Wertentwicklung?“
+
+im zweiten Schritt wäre eine Anreicherung um Stammdaten denkbar:
+„Alexa, seit wann gibt es den ERGO Vermögensmanagement flexibel?“
+„Alexa, wie hoch ist der Ausgabeaufschlag beim MEAG EuroBalance?“
+„Alexa, welche Fonds sind für den Anlegertyp Ausgewogen geeignet?“
+
+----
+
+Imagefiles: 
+
+----
+
+Logo: amazon-alexa-skills-logo-200x200a.png
+
+----
+
+Creator: Julia Hientzsch
+
+----
+
+Contributors: 2

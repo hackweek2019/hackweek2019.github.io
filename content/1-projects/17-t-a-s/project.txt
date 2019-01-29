@@ -1,0 +1,24 @@
+Title: T.A.S.
+
+----
+
+Text: 
+
+## T.A.S. – is a Test Automation Slave
+Our target is to make test automation process and deployment faster, simpler and stable.
+
+----
+
+Imagefiles: 
+
+----
+
+Logo: 1.png
+
+----
+
+Creator: Andriy Tymchenko
+
+----
+
+Contributors: 4

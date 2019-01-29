@@ -1,0 +1,36 @@
+Title: Building a computer aided manufacturing workshop
+
+----
+
+Text: 
+
+## The purpose of our undertaking is the erection of a maker’s workshop for manufacturing of tools and parts with the aid of open source software.
+
+This includes a 3D printer and a CNC mill for the production of parts as well as some classical tools and materials that are needed to produce parts.
+
+Thus we will be able to provide assistance for other hacks of the hackweek and future projects by constructing and manufacturing parts for them!
+
+What we will build and provide for other projects:
+– Shapeoko MAX mill 120×80 cm (powered by arduino, grbl)
+– 3D printer (BQ Hephestos 2 or Prusa i3 MK3 or Kossel)
+– Stock of aluminiun, acryl and plywood for milling
+– abs/pla & pet filament for 3D printing of parts
+– tools, screws, bolts, …
+
+Who is the perfect co-worker in this hack? Everybody! Come as you are! No knowledge needed, just feeling like doing something with your hands and some enthusiasm for CAD/CAM and Open Source Software.
+
+----
+
+Imagefiles: 
+
+----
+
+Logo: hackweek_quadrat.png
+
+----
+
+Creator: Stefan Märkle
+
+----
+
+Contributors: 3

@@ -28,4 +28,4 @@ Contributors: 12
 
 ----
 
-Imagefiles: 4305_3.jpg,teamspot.png
+Imagefiles: 

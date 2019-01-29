@@ -1,0 +1,48 @@
+Title: Continuous IoT
+
+----
+
+Text: 
+
+## IoT wird in unserer Welt immer wichtiger. Auch diva-e weiß das und will deshalb den Geschäftsbereich aufbauen.
+Hier gibt es aber einige Probleme und Fragestellungen:
+
+– Was machen wir mit der Sicherheit? Wie werden wir nicht zum Internet of Shit?
+– Wie können wir als Entwickler schnell, einfach aber dennoch sicher auf einem Embedded Gerät deployen?
+– Wie kann man die Prozesse automatisieren? CI? CD? Ist das überhaupt möglich?
+– Wie mach ich überhaupt Updates bei einem Gerät, auf dem ich nicht selbst Befehle ausführen kann?
+– Wie trenne ich “problematische Hardware” wie Bluetooth, Seriell etc. vom Internet und von anderen kritischen Bereichen meines Systems?
+– Wie kann man ein Gerät “debricken”?
+– Kann ich ein A-B Boot-Schema etablieren?
+
+In diesem Projekt soll gemeinsam versucht werden, diese Fragen zu klären oder sich zumindest auf die Reise zu begeben, diese klären zu wollen.
+
+Als Technologien schweben uns derzeit Dinge wie:
+– Xen: Zur Abgrenzung verschiedener Komponenten und völliger Isolation der wichtigen Systeme vorm “großen bösen Netz”
+– GitLab CI: Der diva-e Standard für Continuous-Integration und -Delivery/-Deployment Prozesse
+– U-Boot: Bootloader und Bootcycle Management für Embedded Geräte
+– NetworkManager: Netzwerkverwaltungsschicht bekannt aus Desktop-Systemen, welches auch erfolgreich beim Hekatron Projekt zum Einsatz kam
+– D-Bus: Message Broker, um Komponenten miteinander reden zu lassen
+– Cross Compiling: Die Zielplattform ist (oft) ARM, CI-System und co. sind aber x86_64
+– Linux: … 😉
+vor.
+
+Das Zielsysteme für diesen “PoC” ist ein Raspberry Pi 3 mit PiStorms (LEGO Mindstorms Technik) Aufsatz (für eine schicke Demo ;-D).
+
+Wenn auch DU einen coolen Buildprozess und/oder eine lässige Demo mitentwickeln willst, melde dich an!
+
+----
+
+Imagefiles: 
+
+----
+
+Logo: pistorms-base-kit-raspberry-pi-brain-fur-lego-roboter.jpg
+
+----
+
+Creator: Thomas Keppler
+
+----
+
+Contributors: 3

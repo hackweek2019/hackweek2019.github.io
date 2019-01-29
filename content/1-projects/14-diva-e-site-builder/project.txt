@@ -1,0 +1,33 @@
+Title: diva-e site builder
+
+----
+
+Text: 
+
+## We are ECMS (Enterprise Content Management) experts at diva-e and can deliver solid high-end solutions for complex environments to our clients. 
+However, we faced some demands with less complexity and we lack experience and efficiency to fulfill those needs of our clients. As examples we can see Marketing Landing Pages or simpler corporate websites with no dependencies on further instances, like DAMs, CRMs, etc.
+
+With this hack we are looking for an efficient way to help out in those situations. The idea is to build a serverless Progressive Web App (PWA) with a set of standard components and establish a flexible, leightweight headless CMS (Storyblok) to provide our teams / customers with a content management solution where
+•	you can fast and easily set up a set of webpages
+•	our client has a simple approach to be charged for that (as a service)
+•	you should even be able to scale in an enterprise environment
+
+We need to learn if we can achieve this with Storyblok and therefore picked a practical case from our current project context. That is MVV Energie AG in Mannheim. We are responsible for the digital B2B marketing and are currently using webflow to build and host more and less complex landing pages. MVV has SAP Commerce (hybris), First Spirit and Hubspot and still need another system to build marketing landing pages. So, if we had a solution for that, life for all would be simpler 😉
+
+Skills needed: HTML / CSS, Vue.js, GraphQL, Node, Docker, DevOps (CI/CD, Infrastructure as Code using Terraform for example), SEO
+
+----
+
+Imagefiles: 
+
+----
+
+Logo: storyblok.jpg
+
+----
+
+Creator: André Lähr
+
+----
+
+Contributors: 5
